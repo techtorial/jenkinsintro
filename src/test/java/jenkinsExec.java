@@ -1,5 +1,3 @@
-package com.techtorial.jenkins;
-
 public class jenkinsExec {
 
 
